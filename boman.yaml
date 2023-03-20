@@ -7,5 +7,5 @@ DAST:
   type: "WEB"
   URL: "https://demo.testfire.net/"
 SCA:
-  language: java-snyk-sca
+  language: java
 Secret_Scan: true
